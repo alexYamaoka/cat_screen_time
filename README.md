@@ -1,3 +1,4 @@
+
 # cat screen time
 A macOS menu bar app that reminds you to take regular breaks from your screen â€” with cat companion to keep you company.
 
@@ -16,7 +17,7 @@ A macOS menu bar app that reminds you to take regular breaks from your screen â€
 ---
 
 ## Demo
-
+<img width="1706" height="1107" alt="Screenshot 2026-05-12 at 22 02 30" src="https://github.com/user-attachments/assets/dcf81062-716a-47ce-8efd-b9b045a55af8" />
 <!-- GIF: break overlay appearing with countdown -->
 <!-- GIF: settings window -->
 
